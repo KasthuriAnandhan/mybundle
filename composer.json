@@ -1,5 +1,5 @@
 {
-    "name": "mycompany/mybundle",
+    "name": "MyNewBundle/mybundle",
     "type": "pimcore-bundle",
     "description": "A custom bundle for Pimcore",
     "keywords": ["pimcore", "bundle"],
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MyCompany\\MyBundle\\": "src/"
+            "MyNewBundle\\MyBundle\\": "src/"
         }
     }
 }
