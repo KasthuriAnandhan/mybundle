@@ -1,5 +1,5 @@
 {
-    "name": "MyNewBundle/mybundle",
+    "name": "my-new-bundle/mybundle",
     "type": "pimcore-bundle",
     "description": "A custom bundle for Pimcore",
     "keywords": ["pimcore", "bundle"],
