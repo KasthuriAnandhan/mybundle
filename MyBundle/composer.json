@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MyCompany\\MyBundle\\": "src/"
+            "MyNewBundle\\MyBundle\\": "src/"
         }
     },
     "minimum-stability": "dev",
